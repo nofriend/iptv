@@ -1,6 +1,6 @@
 /**************************
 小红书带货视频精准过滤脚本
-托管地址: https://gitee.com/nofriend/iptv/raw/main/xhs_remove_goods.js
+托管地址: https://raw.githubusercontent.com/nofriend/iptv/refs/heads/main/xhs_remove_goods.js
 ***************************/
 
 let body = $response.body;
